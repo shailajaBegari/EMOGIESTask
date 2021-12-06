@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-image: url("https://i.pinimg.com/736x/91/4c/8a/914c8ad918ebadc9b8a23a18bd592c6d.jpg");
+}
+input {
+  padding: 4 rem;
+  margin: 5 rem;
+  border: 10px solid;
+}
+h1 {
+  color: deeppink;
+}
+h2 {
+  color: yellow;
+}
+input {
+  width: 80%;
+  height: 40px;
+  background-color: violet;
+}
+h3 {
+  color: deepskyblue;
+}
